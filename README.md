@@ -16,8 +16,8 @@ in building **scalable, efficient, and secure web applications**.
   <a href="https://www.linkedin.com/in/omadbek-qosimov-a8043731a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://github.com/Omadbek17" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+ <a href="https://github.com/Omadbek17" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
   </a>
   <a href="https://t.me/qosimovvv" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>

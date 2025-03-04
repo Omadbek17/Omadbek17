@@ -16,13 +16,13 @@ in building **scalable, efficient, and secure web applications**.
   <a href="https://www.linkedin.com/in/omadbek-qosimov-a8043731a" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
- <a href="https://github.com/Omadbek17" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background-color: white; padding: 5px; border-radius: 10px;"/>
+  <a href="https://github.com/Omadbek17" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
   </a>
   <a href="https://t.me/qosimovvv" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>
   </a>
-</p>  
+</p>
 
 ---
 
@@ -42,6 +42,6 @@ in building **scalable, efficient, and secure web applications**.
 
 ## **📊 GitHub Stats**  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=Omadbek17&show_icons=true&theme=tokyonight" height="160"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omadbek17&layout=compact&theme=tokyonight" height="160"/>  
 </p>  

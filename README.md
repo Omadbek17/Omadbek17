@@ -4,7 +4,7 @@ I am a passionate **Backend Developer** with expertise in **Python & Django**.
 As a 2nd-year student at **Amity University**, I am constantly improving my skills  
 in building **scalable, efficient, and secure web applications**.  
 
-🚀 **Tech Stack:** Django | Django REST Framework | PostgreSQL | Redis | Celery | Nginx |  
+🚀 **Tech Stack:** Django | Django REST Framework | PostgreSQL | 
 💻 **Currently working on:** A car news website backend  
 📚 **Currently learning:** Advanced system design & cloud infrastructure  
 📩 **How to reach me:** [qosimoff06@gmail.com]  
@@ -31,9 +31,6 @@ in building **scalable, efficient, and secure web applications**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="Nginx" width="50" height="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" width="50" height="50"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" width="50" height="50"/>  
 </p>  

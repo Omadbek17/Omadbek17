@@ -4,7 +4,7 @@ I am a passionate **Backend Developer** with expertise in **Python & Django**.
 As a 2nd-year student at **Amity University**, I am constantly improving my skills  
 in building **scalable, efficient, and secure web applications**.  
 
-🚀 **Tech Stack:** Django | Django REST Framework | PostgreSQL | 
+🚀 **Tech Stack:** Django | Django REST Framework | PostgreSQL | HTML & CSS | 
 💻 **Currently working on:** A car news website backend  
 📚 **Currently learning:** Advanced system design & cloud infrastructure  
 📩 **How to reach me:** [qosimoff06@gmail.com]  

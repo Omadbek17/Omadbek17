@@ -19,7 +19,7 @@ in building **scalable, efficient, and secure web applications**.
   <a href="https://github.com/Omadbek17" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50"/>
   </a>
-  <a href="https://t.me/qosimov4" target="_blank">
+  <a href="https://t.me/oqgaxm" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="50" height="50"/>
   </a>
 </p>
